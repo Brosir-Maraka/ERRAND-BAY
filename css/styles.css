@@ -30,3 +30,7 @@
     height: 250px;
     width: 250px;
 }
+#submit {
+    align-content: center;
+    margin-left: 40%;
+}
